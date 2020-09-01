@@ -33,4 +33,4 @@ jobs:
 
     # Deploy App to Surge
       - name: Deploying Project to Surge
-        run: surge ./ abidpu19.surge.sh --token ${{ secrets.SURGE_TOKEN }}
+        run: surge ./ wteam38.surge.sh --token ${{ secrets.SURGE_TOKEN }}
